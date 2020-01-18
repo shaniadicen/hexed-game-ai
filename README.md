@@ -6,7 +6,8 @@ Game Download: [Hexed!](http://bit.ly/38muW4X)
 
 ## System Design
 This is an implementation of Adverserial Search in Artificial Intelligence.\
-It uses a heuristic to find the best possible move.
+It uses a heuristic/utility to find the best possible move.\
+You can change the heuristic of the AI in `computeUtility()` method in Hexed.
 
 ## Support
 For any questions or concerns, please email [shaniaddev@gmail.com](mailto:shaniaddev@gmail.com?subject=[GitHub]%20Hexed%20Game%20AI)
