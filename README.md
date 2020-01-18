@@ -1,4 +1,4 @@
-# Hexed! Adversarial Game Search
+# Artificial Intelligence: Hexed! Game Search
 This is a java program that plays the a custom two-player game called Hexed!
 
 ## Requirements
