@@ -13,3 +13,12 @@
 *.zip
 *.tar.gz
 *.rar
+<<<<<<< HEAD
+=======
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+>>>>>>> Update gitignore
