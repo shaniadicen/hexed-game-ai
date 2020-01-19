@@ -2,7 +2,7 @@
 A java program that plays a custom standard two-player game called Hexed!
 
 ## Requirements
-This is an AI program that will be able to play the standard game Hexed!. A standard game is basically an open information, deterministic, two-player, turn-taking and zero-sum game. The game uses a virtual board game where the board consists of multiple combined hexagon with a set of 9 columns and 7 and 6 rows.
+This is an AI program that plays the standard game Hexed!. A standard game is basically an open information, deterministic, two-player, turn-taking and zero-sum game. The game uses a virtual board game where the board consists of multiple combined hexagon with a set of 9 columns and 7 and 6 rows.
 
 Game Download: [Hexed!](http://bit.ly/38muW4X)\
 To run the game's UI, please download [eazfuscator](https://www.gapotchenko.com/eazfuscator.net) or the game won't execute.
