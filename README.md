@@ -56,6 +56,3 @@ Flanking is the capturing of your opponent's pieces. The flanking of the cells a
 
 ### Game Tree
 For the construction of the game tree, this follows the minimax search strategy. The program is designed such that the game tree will be generated whenever the program has to make its move. Initially, the depth being dived is restricted to 6 plies and will increase by 2 every time it makes its move. If the node being visited at the frontier is a game-ending node or its depth is equal to maximum depth, then the evaluation function will be computed and will be assigned to the utility attribute. The computeUtility method computes the evaluation function of the board which would determine the utility of the terminal state. The evaluation function used is the number of cells that would be flanked if the move of the turn in the board is made.
-
-## Support
-For any questions or concerns, please email [shaniaddev@gmail.com](mailto:shaniaddev@gmail.com?subject=[GitHub]%20Hexed%20Game%20AI)
